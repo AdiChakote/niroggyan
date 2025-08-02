@@ -55,8 +55,8 @@ src/
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/AdiChakote/nirogyan.git
-cd nirogyan
+git clone https://github.com/AdiChakote/niroggyan.git
+cd niroggyan
 npm install
 npm start
 ```
