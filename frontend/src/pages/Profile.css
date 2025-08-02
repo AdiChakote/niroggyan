@@ -1,0 +1,36 @@
+.profile-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.profile-details {
+  margin-bottom: 2rem;
+}
+
+.available {
+  color: green;
+  font-weight: bold;
+}
+
+.unavailable {
+  color: red;
+  font-weight: bold;
+}
+
+.not-available {
+  color: red;
+  font-size: 18px;
+  text-align: center;
+}

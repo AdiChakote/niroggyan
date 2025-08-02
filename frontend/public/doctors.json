@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Yusuf Khan",
+    "specialization": "General Physician",
+    "image": "/doctor-image/yusuf.jpg",
+    "available": true,
+    "bio": "Experienced in internal medicine and primary healthcare with over 10 years of practice."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Bhavesh Patel",
+    "specialization": "Orthopedic Surgeon",
+    "image": "/doctor-image/bhavesh.jpg",
+    "available": false,
+    "bio": "Specializes in bone and joint surgeries, and has handled complex trauma cases."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Rahul Joshi",
+    "specialization": "Neurologist",
+    "image": "/doctor-image/rahul.jpg",
+    "available": true,
+    "bio": "Focuses on brain and nervous system disorders with research in cognitive health."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Martha Williams",
+    "specialization": "Pediatrician",
+    "image": "/doctor-image/martha.jpg",
+    "available": true,
+    "bio": "Dedicated to child health and development, with 12+ years of pediatric experience."
+  }
+]

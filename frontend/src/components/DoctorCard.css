@@ -1,0 +1,49 @@
+.doctor-card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.doctor-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.doctor-info h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: #222;
+}
+
+.doctor-info p {
+  margin: 0.25rem 0;
+  color: #555;
+}
+
+.status.available {
+  color: green;
+}
+
+.status.unavailable {
+  color: red;
+}
+
+.view-profile-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.view-profile-btn:hover {
+  background-color: #0056b3;
+}
