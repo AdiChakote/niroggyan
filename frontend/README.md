@@ -55,12 +55,8 @@ src/
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/AdiChakote/nirog-frontend.git
-cd nirog-frontend
+git clone https://github.com/AdiChakote/nirogyan.git
+cd nirogyan
 npm install
 npm start
-
-
-
-
 ```
